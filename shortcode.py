@@ -1,4 +1,4 @@
-from dateutil import parser
+
 import sqlite3
 import time
 import polars as pl

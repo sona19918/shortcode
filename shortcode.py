@@ -1,4 +1,3 @@
-import plotly.express as px
 from dateutil import parser
 import sqlite3
 import time
